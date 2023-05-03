@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683101255 source:f:\nevhodenkovadym\laba08bmtp8.2\main.cpp
+	<iostream>
+	<iomanip>
+	"ModulesMySurname.h"
+
+1683101213 f:\nevhodenkovadym\laba08bmtp8.2\modulesmysurname.h
+
