@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685528110 source:c:\users\vadym nevhodenko\desktop\учоба\btmplab10nevhodenkovadym\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+
