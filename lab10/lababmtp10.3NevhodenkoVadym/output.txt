@@ -1,0 +1,4 @@
+Results of execution of function s_calculation with arguments x = 1, y = 2, z = 3:
+s_result = 9
+
+The number b in the binary number system: 100

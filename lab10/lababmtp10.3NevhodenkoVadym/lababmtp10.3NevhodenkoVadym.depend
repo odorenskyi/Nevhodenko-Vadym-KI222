@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685534702 source:c:\users\vadym nevhodenko\desktop\учоба\lababmtp10.3nevhodenkovadym\s_calculation.cpp
+
+1685536559 source:c:\users\vadym nevhodenko\desktop\учоба\lababmtp10.3nevhodenkovadym\main.cpp
+	<iostream>
+	<fstream>
+	"ModulesNevhodenko.h"
+
+1685536834 c:\users\vadym nevhodenko\desktop\учоба\lababmtp10.3nevhodenkovadym\modulesnevhodenko.h
+	<string>
+
+1685536750 source:c:\users\vadym nevhodenko\desktop\учоба\lababmtp10.3nevhodenkovadym\modulesnevhodenko.cpp
+	"ModulesNevhodenko.h"
+	<string>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685532756 source:c:\users\vadym nevhodenko\desktop\учоба\labbmtp10.2nevhodenkovadym\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	<ctime>
+
